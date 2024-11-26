@@ -1,0 +1,29 @@
+.comteiner-venda{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 2vw;
+    padding: 0 1vw;
+}
+.venda-item img{
+    height: 505px;
+    width: 600px;
+    object-fit: cover;
+
+}
+.texto-da-ja{
+    display: block;
+   
+}
+.janela{
+    display: flex;
+    justify-content: center;
+}
+.venda-item{
+    width: 600px;
+    height: 500px;
+    border: 10px solid rgb(255, 175, 2);
+    box-shadow: 5px 5px 5px #0006;
+   
+}
+
